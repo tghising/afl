@@ -1,0 +1,28 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# production
+/build
+
+
+
+# Default ignored files
+/workspace.xml
+**/workspace.xml
+/compiler.xml
+**/compiler.xml
+/encodings.xml
+**/encodings.xml
+/misc.xml
+**/misc.xml
+/vcs.xml
+/**vcs.xml
+*.class
+**.class
+
+### IntelliJ IDEA ###
+.idea
+*.idea
+**.idea
+*.iws
+*.iml
+*.ipr# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
